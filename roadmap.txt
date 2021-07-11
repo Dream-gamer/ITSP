@@ -1,0 +1,4 @@
+restapi
+any framework like restapi, react, angular-Client and server communicate(getrequest, postrequest)
+cloudflare-free cloud
+
